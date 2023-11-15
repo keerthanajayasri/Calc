@@ -149,6 +149,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![image](https://github.com/keerthanajayasri/Calc/assets/121163440/07d4f4c5-32d9-48fa-a7e6-86a204841013)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
